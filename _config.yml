@@ -18,15 +18,15 @@ avatar: https://upload.wikimedia.org/wikipedia/commons/0/0c/Mug_icon.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: stufftodo@volunteerchicago.org
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://github.com/ziegegeist/volunteerchicago
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: volunteerchicag
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
