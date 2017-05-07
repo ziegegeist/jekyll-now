@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Subscribe
+permalink: /subscribe/
 ---
 
 This is a project developed at [Chi Hack Night](https://chihacknight.org) to create a simple mailing list with volunteer opportunities in the Chicago area. 
